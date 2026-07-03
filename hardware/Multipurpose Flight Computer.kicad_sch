@@ -15260,7 +15260,7 @@
 			(at 71.882 238.252 0)
 			(effects
 				(font
-					(size 1.016 1.016)
+					(size 1.27 1.27)
 				)
 				(justify left)
 			)
@@ -16770,18 +16770,18 @@
 		(dnp no)
 		(uuid "83c4b794-3735-4cf0-9b59-93fa77e6a463")
 		(property "Reference" "L3"
-			(at 81.788 236.982 90)
+			(at 81.788 235.966 90)
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 1.27 1.27)
 				)
 			)
 		)
 		(property "Value" "5.6uH"
-			(at 82.55 238.506 90)
+			(at 82.042 237.998 90)
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 1.27 1.27)
 				)
 			)
 		)
