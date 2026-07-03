@@ -6715,6 +6715,12 @@
 		(uuid "dae73e38-b67d-4e9b-8b8b-904a7f22659c")
 	)
 	(junction
+		(at 228.6 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0052a3b6-9418-4d82-babb-673a397fd665")
+	)
+	(junction
 		(at 67.31 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6755,6 +6761,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07e35912-1994-4296-aab1-9253ab9ddf62")
+	)
+	(junction
+		(at 222.25 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a135390-1c7a-4c7c-b594-040dbdb1012b")
 	)
 	(junction
 		(at 139.7 266.7)
@@ -7516,6 +7528,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 77.47) (xy 220.98 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "037c503f-9237-459e-9293-c2026924cefa")
+	)
+	(wire
+		(pts
 			(xy 110.49 140.97) (xy 110.49 151.13)
 		)
 		(stroke
@@ -7776,6 +7798,16 @@
 	)
 	(wire
 		(pts
+			(xy 222.25 92.71) (xy 218.44 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15269237-5283-438a-a5d4-1bcc54e170ca")
+	)
+	(wire
+		(pts
 			(xy 342.9 41.91) (xy 342.9 43.18)
 		)
 		(stroke
@@ -7783,6 +7815,16 @@
 			(type default)
 		)
 		(uuid "15fea20b-17fc-4417-ada0-ac6488b5c87d")
+	)
+	(wire
+		(pts
+			(xy 222.25 92.71) (xy 228.6 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16408a41-28ea-424f-b030-b105c54e12b5")
 	)
 	(wire
 		(pts
@@ -8266,7 +8308,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 100.33) (xy 218.44 104.14)
+			(xy 236.22 87.63) (xy 236.22 92.71)
 		)
 		(stroke
 			(width 0)
@@ -8756,7 +8798,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 90.17) (xy 218.44 90.17)
+			(xy 220.98 77.47) (xy 236.22 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8873,6 +8915,16 @@
 			(type default)
 		)
 		(uuid "65617079-e21c-4a42-9997-f4e8a6fbc735")
+	)
+	(wire
+		(pts
+			(xy 228.6 92.71) (xy 236.22 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67432d24-6588-42a0-8e1b-763bc8e4cb9b")
 	)
 	(wire
 		(pts
@@ -10946,6 +10998,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 92.71) (xy 218.44 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3522a26-6a98-4653-9ba9-7fa6514d20a0")
+	)
+	(wire
+		(pts
 			(xy 48.26 116.84) (xy 39.37 116.84)
 		)
 		(stroke
@@ -11193,6 +11255,16 @@
 			(type default)
 		)
 		(uuid "f3e7d55f-df2f-4cbe-a58c-2c880dea5914")
+	)
+	(wire
+		(pts
+			(xy 220.98 90.17) (xy 210.82 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f426d4f1-3be5-419b-bd51-d080499849e5")
 	)
 	(wire
 		(pts
@@ -12215,6 +12287,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 222.25 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04972c12-6fef-441d-88cb-88390e832010")
+		(property "Reference" "#PWR054"
+			(at 222.25 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 222.25 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 222.25 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4efc02e7-4df2-42da-84b4-737eea18f5b1")
+		)
+		(instances
+			(project ""
+				(path "/af0ac348-c8cb-4da6-83ea-ab1101947074"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 306.07 104.14 0)
 		(unit 1)
@@ -12354,7 +12492,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FCM1608KF-601T03")
-		(at 218.44 95.25 270)
+		(at 236.22 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12363,7 +12501,7 @@
 		(fields_autoplaced yes)
 		(uuid "078207c9-138d-4faa-946a-783bb38c7665")
 		(property "Reference" "L4"
-			(at 220.98 93.9499 90)
+			(at 238.76 81.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12372,7 +12510,7 @@
 			)
 		)
 		(property "Value" "FCM1608KF-601T03"
-			(at 220.98 96.4899 90)
+			(at 238.76 83.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12381,7 +12519,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:L0603"
-			(at 210.82 95.25 0)
+			(at 228.6 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12390,7 +12528,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors_600R-25-at100MHz_C141723.html"
-			(at 208.28 95.25 0)
+			(at 226.06 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12399,7 +12537,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 95.25 0)
+			(at 236.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12408,7 +12546,7 @@
 			)
 		)
 		(property "Manufacturer" "TAI-TECH(台庆)"
-			(at 205.74 95.25 0)
+			(at 223.52 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12417,7 +12555,7 @@
 			)
 		)
 		(property "MPN" "FCM1608KF-601T03"
-			(at 203.2 95.25 0)
+			(at 220.98 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12426,7 +12564,7 @@
 			)
 		)
 		(property "LCSC Part" "C141723"
-			(at 200.66 95.25 0)
+			(at 218.44 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13601,6 +13739,72 @@
 			(project "Multipurpose Flight Computer"
 				(path "/af0ac348-c8cb-4da6-83ea-ab1101947074"
 					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 228.6 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20494b88-1001-4081-8e60-ea878079659a")
+		(property "Reference" "#PWR055"
+			(at 228.6 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2da1b923-bb31-4b9c-9827-b510f739824a")
+		)
+		(instances
+			(project "Multipurpose Flight Computer"
+				(path "/af0ac348-c8cb-4da6-83ea-ab1101947074"
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -16039,6 +16243,75 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 222.25 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "70b2d63a-d011-4213-b72b-d0af6c3af6c5")
+		(property "Reference" "C39"
+			(at 222.758 94.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 222.758 98.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 223.2152 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 222.25 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 222.25 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b913897-7213-4e5c-a5d0-28d3d5e8e133")
+		)
+		(pin "2"
+			(uuid "af06727e-492c-450b-bd7d-cbac26a99269")
+		)
+		(instances
+			(project "Multipurpose Flight Computer"
+				(path "/af0ac348-c8cb-4da6-83ea-ab1101947074"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 311.15 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17662,6 +17935,75 @@
 			(project ""
 				(path "/af0ac348-c8cb-4da6-83ea-ab1101947074"
 					(reference "Card1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 228.6 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9679e91d-fd60-4b2e-b30e-9ec0ef38a470")
+		(property "Reference" "C38"
+			(at 229.108 94.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 229.108 98.806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 229.5652 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "757e432d-d3a8-47c2-b3ce-cac995908590")
+		)
+		(pin "2"
+			(uuid "80019414-b31d-44bc-a036-36a95ee25c63")
+		)
+		(instances
+			(project "Multipurpose Flight Computer"
+				(path "/af0ac348-c8cb-4da6-83ea-ab1101947074"
+					(reference "C38")
 					(unit 1)
 				)
 			)
