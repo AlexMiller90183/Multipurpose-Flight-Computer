@@ -1,4 +1,4 @@
-27236847874393013
+27242196940775491
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107919,7 +107919,28 @@ FC-135R_L3.2-W1.5
 2
 2
 easyeda2kicad
+IND-SMD_L3.0-W3.0
+
+
+0
+2
+2
+easyeda2kicad
+IND-SMD_L4.0-W4.0-A
+
+
+0
+2
+2
+easyeda2kicad
 L0603
+
+
+0
+2
+2
+easyeda2kicad
+L2520
 
 
 0
