@@ -1,0 +1,7 @@
+{
+    "stm32-for-vscode.openOCDPath": "C:\\Users\\Alex Miller\\AppData\\Roaming\\xPacks\\@xpack-dev-tools\\openocd\\0.12.0-7.1\\.content\\bin\\openocd.EXE",
+    "stm32-for-vscode.makePath": "C:\\msys64\\usr\\bin\\make.EXE",
+    "stm32-for-vscode.armToolchainPath": "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.2 rel1\\bin",
+    "cortex-debug.armToolchainPath": "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.2 rel1\\bin",
+    "cortex-debug.openocdPath": "C:\\Users\\Alex Miller\\AppData\\Roaming\\xPacks\\@xpack-dev-tools\\openocd\\0.12.0-7.1\\.content\\bin\\openocd.EXE"
+}

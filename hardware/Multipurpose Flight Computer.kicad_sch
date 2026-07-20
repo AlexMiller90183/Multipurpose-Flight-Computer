@@ -7517,7 +7517,7 @@
 	)
 	(text "Crystals"
 		(exclude_from_sim no)
-		(at 121.158 16.764 0)
+		(at 124.714 17.018 0)
 		(effects
 			(font
 				(face "KiCad Font")
@@ -7683,7 +7683,7 @@
 		(uuid "05f39397-ab06-42b3-84e8-1a9255034c98")
 	)
 	(junction
-		(at 134.62 30.48)
+		(at 138.43 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "06126577-ac28-46a6-854a-a512788fc9a3")
@@ -7863,7 +7863,7 @@
 		(uuid "5af73680-cfab-4471-9f15-a78f1b6fad3a")
 	)
 	(junction
-		(at 109.22 35.56)
+		(at 113.03 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b6608ce-5873-4aa9-acc3-cbdbb935f578")
@@ -7893,7 +7893,7 @@
 		(uuid "65a73291-e3d1-4307-804c-2ff1f95c2787")
 	)
 	(junction
-		(at 109.22 44.45)
+		(at 113.03 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "674ff7ad-8c31-4626-b016-31db8c065277")
@@ -8019,7 +8019,7 @@
 		(uuid "a1426c73-dc4b-4802-b879-cafc0f7c1ae2")
 	)
 	(junction
-		(at 134.62 38.1)
+		(at 138.43 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1c7ac10-ba66-4133-8100-81fb407735fa")
@@ -8648,7 +8648,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 44.45) (xy 109.22 43.18)
+			(xy 113.03 50.8) (xy 113.03 49.53)
 		)
 		(stroke
 			(width 0)
@@ -9128,7 +9128,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 35.56) (xy 130.81 35.56)
+			(xy 132.08 41.91) (xy 134.62 41.91)
 		)
 		(stroke
 			(width 0)
@@ -9228,7 +9228,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 30.48) (xy 143.51 30.48)
+			(xy 138.43 36.83) (xy 147.32 36.83)
 		)
 		(stroke
 			(width 0)
@@ -9668,7 +9668,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 30.48) (xy 100.33 44.45)
+			(xy 104.14 36.83) (xy 104.14 50.8)
 		)
 		(stroke
 			(width 0)
@@ -9758,7 +9758,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 35.56) (xy 130.81 38.1)
+			(xy 134.62 41.91) (xy 134.62 44.45)
 		)
 		(stroke
 			(width 0)
@@ -10218,7 +10218,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 35.56) (xy 113.03 35.56)
+			(xy 113.03 41.91) (xy 116.84 41.91)
 		)
 		(stroke
 			(width 0)
@@ -10918,7 +10918,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 35.56) (xy 109.22 35.56)
+			(xy 105.41 41.91) (xy 113.03 41.91)
 		)
 		(stroke
 			(width 0)
@@ -11338,7 +11338,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 30.48) (xy 134.62 30.48)
+			(xy 132.08 36.83) (xy 138.43 36.83)
 		)
 		(stroke
 			(width 0)
@@ -11428,7 +11428,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 30.48) (xy 100.33 30.48)
+			(xy 116.84 36.83) (xy 104.14 36.83)
 		)
 		(stroke
 			(width 0)
@@ -11708,7 +11708,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 38.1) (xy 134.62 41.91)
+			(xy 138.43 44.45) (xy 138.43 48.26)
 		)
 		(stroke
 			(width 0)
@@ -12338,7 +12338,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 44.45) (xy 109.22 44.45)
+			(xy 104.14 50.8) (xy 113.03 50.8)
 		)
 		(stroke
 			(width 0)
@@ -12398,7 +12398,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 38.1) (xy 134.62 38.1)
+			(xy 134.62 44.45) (xy 138.43 44.45)
 		)
 		(stroke
 			(width 0)
@@ -12727,7 +12727,7 @@
 		(uuid "49958694-da2f-4d22-883b-6c6b3848dd87")
 	)
 	(label "HSE_OUT"
-		(at 143.51 30.48 180)
+		(at 147.32 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13107,7 +13107,7 @@
 		(uuid "f5f10867-ccd3-40b9-9b5c-d3f42ec3837d")
 	)
 	(label "HSE_IN"
-		(at 101.6 35.56 0)
+		(at 105.41 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16461,7 +16461,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:X322525MOB4SI")
-		(at 120.65 33.02 0)
+		(at 124.46 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16472,7 +16472,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a59e8bd-e44e-4972-949d-41880eaf05b6")
 		(property "Reference" "X1"
-			(at 120.65 22.86 0)
+			(at 124.46 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16482,7 +16482,7 @@
 			)
 		)
 		(property "Value" "X322525MOB4SI"
-			(at 120.65 25.4 0)
+			(at 124.46 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16492,7 +16492,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
-			(at 120.65 43.18 0)
+			(at 124.46 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16503,7 +16503,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-25MHZ-12PF-10PPM-40-85_C9006.html"
-			(at 120.65 45.72 0)
+			(at 124.46 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16514,7 +16514,7 @@
 			)
 		)
 		(property "Description" "YSX321SL 25MHZ 12PF 10PPM -40~+85℃"
-			(at 120.65 33.02 0)
+			(at 124.46 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16525,7 +16525,7 @@
 			)
 		)
 		(property "Manufacturer" "YXC(扬兴晶振)"
-			(at 120.65 48.26 0)
+			(at 124.46 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16536,7 +16536,7 @@
 			)
 		)
 		(property "MPN" "X322525MOB4SI"
-			(at 120.65 50.8 0)
+			(at 124.46 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16547,7 +16547,7 @@
 			)
 		)
 		(property "LCSC Part" "C9006"
-			(at 120.65 53.34 0)
+			(at 124.46 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21541,7 +21541,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 41.91 0)
+		(at 138.43 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21552,7 +21552,7 @@
 		(fields_autoplaced yes)
 		(uuid "ba6e7e96-29b5-4ae0-ad58-0d1aab481357")
 		(property "Reference" "#PWR043"
-			(at 134.62 48.26 0)
+			(at 138.43 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21563,7 +21563,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 134.62 46.99 0)
+			(at 138.43 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21573,7 +21573,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 41.91 0)
+			(at 138.43 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21584,7 +21584,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 41.91 0)
+			(at 138.43 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21595,7 +21595,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 41.91 0)
+			(at 138.43 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22598,7 +22598,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 109.22 39.37 0)
+		(at 113.03 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22608,7 +22608,7 @@
 		(dnp no)
 		(uuid "c67af755-f8a8-4885-85d0-6baf5cf0fd59")
 		(property "Reference" "C33"
-			(at 104.902 37.338 0)
+			(at 108.712 43.688 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22619,7 +22619,7 @@
 			)
 		)
 		(property "Value" "20pF"
-			(at 103.632 41.91 0)
+			(at 107.442 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22630,7 +22630,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 110.1852 43.18 0)
+			(at 113.9952 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22641,7 +22641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 39.37 0)
+			(at 113.03 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22652,7 +22652,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 109.22 39.37 0)
+			(at 113.03 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23078,7 +23078,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 134.62 34.29 0)
+		(at 138.43 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23089,7 +23089,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd3eaabb-8710-4b1f-a83e-6e8d64873ebf")
 		(property "Reference" "C34"
-			(at 138.43 33.0199 0)
+			(at 142.24 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23100,7 +23100,7 @@
 			)
 		)
 		(property "Value" "20pF"
-			(at 138.43 35.5599 0)
+			(at 142.24 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23111,7 +23111,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 135.5852 38.1 0)
+			(at 139.3952 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23122,7 +23122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 34.29 0)
+			(at 138.43 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23133,7 +23133,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 134.62 34.29 0)
+			(at 138.43 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24792,7 +24792,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 44.45 0)
+		(at 113.03 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24803,7 +24803,7 @@
 		(fields_autoplaced yes)
 		(uuid "fa6254f4-6649-4b69-9fc0-dc65c08a87f2")
 		(property "Reference" "#PWR044"
-			(at 109.22 50.8 0)
+			(at 113.03 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24814,7 +24814,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 49.53 0)
+			(at 113.03 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24824,7 +24824,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 44.45 0)
+			(at 113.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24835,7 +24835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 44.45 0)
+			(at 113.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24846,7 +24846,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 44.45 0)
+			(at 113.03 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

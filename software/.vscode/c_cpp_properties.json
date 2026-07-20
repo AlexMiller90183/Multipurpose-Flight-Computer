@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "name": "STM32",
+      "includePath": [
+        "Core/Inc",
+        "Drivers/CMSIS/Device/ST/STM32F7xx/Include",
+        "Drivers/CMSIS/Include",
+        "Drivers/STM32F7xx_HAL_Driver/Inc",
+        "Drivers/STM32F7xx_HAL_Driver/Inc/Legacy",
+        "FATFS/App",
+        "FATFS/Target",
+        "Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc",
+        "Middlewares/ST/STM32_USB_Device_Library/Core/Inc",
+        "Middlewares/Third_Party/FatFs/src",
+        "USB_DEVICE/App",
+        "USB_DEVICE/Target"
+      ],
+      "defines": [
+        "STM32F722xx",
+        "USE_HAL_DRIVER"
+      ],
+      "compilerPath": "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\14.2 rel1\\bin\\arm-none-eabi-gcc.EXE"
+    }
+  ],
+  "version": 4
+}
