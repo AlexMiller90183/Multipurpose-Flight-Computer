@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 2.6,
-          "width": 2.6
+          "drill": 0.0,
+          "height": 0.675,
+          "width": 0.28
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -128,7 +128,7 @@
         "starved_thermal": "error",
         "text_height": "ignore",
         "text_on_edge_cuts": "error",
-        "text_thickness": "warning",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_angle": "error",
@@ -214,7 +214,8 @@
         0.2,
         0.3,
         0.4,
-        0.6
+        0.6,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -686,7 +687,7 @@
         "uuid": "af0ac348-c8cb-4da6-83ea-ab1101947074"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J4,R20,R23-24,#PWR45-46,#PWR57,C35-36",
     "variants": []
   },
   "sheets": [
